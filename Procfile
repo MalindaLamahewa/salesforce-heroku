@@ -1,0 +1,1 @@
+web: java -cp target/classes:target/dependency/* org.glassfish.jersey.archetypes.emm_service_monitor.heroku.Main
